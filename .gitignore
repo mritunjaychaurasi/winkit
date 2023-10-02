@@ -1,0 +1,4 @@
+node_modules/
+/src/constants/index.js
+build/
+.env
